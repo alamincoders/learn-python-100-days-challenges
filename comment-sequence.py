@@ -12,3 +12,5 @@ Multi line comment
 
 
 print("Hi, I am a frontend developer\nand now I am learning python development.")
+
+print("hello world", 7, 8, sep=" - " , end=" *** ")
